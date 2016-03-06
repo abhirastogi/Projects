@@ -1,0 +1,15 @@
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bin\Debug\ReverseMap\resources.pri
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bin\Debug\mu.WindowsPhone.build.appxrecipe
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\priconfig.xml
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\priconfig.xml.intermediate
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\layout.resfiles
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\layout.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\resources.resfiles
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\resources.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\pri.resfiles
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\pri.resfiles.intermediate
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\qualifiers.txt
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\qualifiers.txt.intermediate
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\abhishek\documents\visual studio 2013\Projects\mu\mu.WindowsPhone\bld\Debug\ProjectArchitectures.txt
